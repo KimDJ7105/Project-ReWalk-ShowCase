@@ -1,3 +1,6 @@
+컴퓨터에 리포지토리 복사 후 클라이언트와 서버 프로젝트 열기 
+도구 - nuget 패키지 - 패키지 관리자 - boost.asio 업데이트 클릭해서 asio 설치
+
 https://www.autodesk.com/developer-network/platform-technologies/fbx-sdk-2020-3
 해당 링크에서 FBX SDK 2020.3.2 VS2019 (exe - 156196Kb)를 다운로드 후 실행.
 

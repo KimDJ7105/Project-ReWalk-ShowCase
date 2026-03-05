@@ -6,7 +6,7 @@
  - 지도교수 : 정내훈 교수님
  - 개발 기간 : 2023.11 ~ 2024.08
  - 장르 : 팀 기반 슈팅 게임
- - 사용 툴 : C++, DirectX 12, Boost.ASIO
+ - 기술 스택 : C++, DirectX 12, Boost.ASIO
  - Youtube Link : https://youtu.be/5hCu5S4Mi8k?si=sD0eD_0LJQf-hg1x
 
 **기술적 도전**
